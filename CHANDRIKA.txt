@@ -1,3 +1,3 @@
  Name    : YARRAMSETTY CHANDRIKA LAVANYA
  Rollno  : 44
- Section : BCA-c
+Section  : BCA-C
